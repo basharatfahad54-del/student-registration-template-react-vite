@@ -2,6 +2,19 @@
 
 A complete, responsive **Student Registration System** built with **React.js**, **Vite** and **Tailwind CSS**.
 
+## 💼 Contact for Services
+
+Need a custom web application, an AI-powered product (ChatGPT chatbot, AI SaaS) or a full-stack solution for your business? Let's work together:
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-fahad-8b6258370/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Muhammad Fahad" />
+  </a>
+  <a href="https://www.fiverr.com/fahadvine1/develop-custom-ai-web-app-chatgpt-chatbot-or-ai-saas-application" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr - Muhammad Fahad" />
+  </a>
+</p>
+
 ## Features
 
 - 📝 Registration form with full client-side validation and inline error messages
