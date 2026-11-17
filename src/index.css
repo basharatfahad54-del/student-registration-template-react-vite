@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Small base tweak so the page always fills the viewport nicely */
+html {
+  scroll-behavior: smooth;
+}
